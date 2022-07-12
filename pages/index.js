@@ -1,4 +1,5 @@
 import { Box, Center, Image, Text } from "@chakra-ui/react";
+import Head from "next/head";
 // import { MainLayout } from "../components/layouts";
 
 export default function HomePage() {
